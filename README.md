@@ -1,45 +1,60 @@
-<h1 align="center">👨‍💻 zPcho</h1>
+<h1 align="center">⚡ zPcho ⚡</h1>
+
 <h3 align="center">
-Ingeniero de Sistemas · Desarrollador de Software · Web · Bots de Discord
+Ingeniero de Sistemas · Desarrollador Software · Web · Automatización · Bots
 </h3>
 
 <p align="center">
-🚀 Desarrollo soluciones digitales modernas, personalizadas y funcionales
+💻 Código · ⚙️ Sistemas · 🤖 Automatización · 🌐 Web · 🧠 Lógica
 </p>
 
 <p align="center">
-Código limpio · Diseño funcional · Resultados reales
+Transformo ideas en software funcional, estable y profesional.
 </p>
 
 ---
 
-<h2>🧠 ¿Quién soy?</h2>
+<h2>👨‍💻 Perfil</h2>
 
 <p>
-Soy <b>Ingeniero de Sistemas</b> con enfoque en el desarrollo de software práctico y soluciones a medida.
-Me dedico a crear <b>páginas web profesionales</b>, <b>programas personalizados</b> y <b>bots de Discord</b> adaptados a cada necesidad.
+Soy <b>Ingeniero de Sistemas</b> con conocimientos amplios en desarrollo de software, diseño de sistemas y automatización.
+Tengo la capacidad de adaptarme a distintos tipos de proyectos, tecnologías y necesidades.
 </p>
 
 <p>
-Trabajo con una mentalidad clara:  
-<b>menos humo, más funcionalidad</b>.
+No me limito a una sola área: desarrollo desde <b>páginas web</b> hasta <b>programas complejos</b>, <b>bots</b>, <b>sistemas automatizados</b> y <b>herramientas personalizadas</b>.
 </p>
 
 <p>
-Cada proyecto está pensado para ser estable, escalable y fácil de mantener.
+Mi enfoque siempre es el mismo:
+<b>software que funcione bien, sea escalable y tenga sentido.</b>
 </p>
 
 ---
 
-<h2>🛠️ ¿Qué hago?</h2>
+<h2>🧠 Conocimientos y habilidades</h2>
 
 <ul>
-  <li>🌐 <b>Páginas web profesionales</b> (diseño moderno y a gusto del cliente)</li>
-  <li>🖥️ <b>Programas y aplicaciones</b> personalizadas</li>
-  <li>🤖 <b>Bots de Discord</b> (moderación, sistemas, automatización)</li>
-  <li>⚙️ Automatización de procesos</li>
-  <li>🧩 Backend y lógica de negocio</li>
-  <li>🔧 Optimización y mantenimiento de software</li>
+  <li>Diseño y desarrollo de software</li>
+  <li>Análisis y lógica de negocio</li>
+  <li>Resolución de problemas complejos</li>
+  <li>Estructuración de proyectos</li>
+  <li>Optimización de rendimiento</li>
+  <li>Mantenimiento y mejora de sistemas existentes</li>
+</ul>
+
+---
+
+<h2>🛠️ Qué puedo desarrollar</h2>
+
+<ul>
+  <li>🌐 <b>Páginas web profesionales</b> (modernas, responsive y personalizadas)</li>
+  <li>🖥️ <b>Programas de escritorio</b></li>
+  <li>📦 <b>Aplicaciones personalizadas</b></li>
+  <li>🤖 <b>Bots de Discord avanzados</b></li>
+  <li>⚙️ <b>Sistemas de automatización</b></li>
+  <li>🧩 <b>Backend y APIs</b></li>
+  <li>📊 Sistemas de control, estadísticas y gestión</li>
 </ul>
 
 ---
@@ -47,31 +62,49 @@ Cada proyecto está pensado para ser estable, escalable y fácil de mantener.
 <h2>🤖 Bots de Discord</h2>
 
 <p>
-Desarrollo bots de Discord completamente personalizados, enfocados en:
+Desarrollo bots de Discord completos y a medida, capaces de manejar:
 </p>
 
 <ul>
-  <li>Moderación automática</li>
-  <li>Sistemas de roles y permisos</li>
+  <li>Moderación automática y avanzada</li>
+  <li>Sistemas de roles, rangos y permisos</li>
+  <li>Economías virtuales</li>
+  <li>Sistemas de niveles y experiencia</li>
+  <li>Logs, estadísticas y control del servidor</li>
   <li>Comandos personalizados</li>
-  <li>Economías, niveles y estadísticas</li>
-  <li>Integración con sistemas externos</li>
+  <li>Integración con APIs y bases de datos</li>
 </ul>
 
 <p>
-Bots estables, seguros y adaptados a cada servidor.
+Bots estables, seguros y pensados para uso real.
 </p>
 
 ---
 
-<h2>⚙️ Tecnologías y herramientas</h2>
+<h2>⚙️ Automatización</h2>
+
+<p>
+Automatizo procesos para ahorrar tiempo, reducir errores y mejorar eficiencia:
+</p>
+
+<ul>
+  <li>Scripts personalizados</li>
+  <li>Procesos repetitivos</li>
+  <li>Gestión de datos</li>
+  <li>Herramientas internas</li>
+  <li>Integración entre sistemas</li>
+</ul>
+
+---
+
+<h2>💻 Tecnologías y herramientas</h2>
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,java,php,html,css,js,mysql,linux,git,github,vscode&perline=6" />
 </p>
 
 <p>
-Lenguajes y herramientas seleccionadas según el tipo de proyecto y la mejor solución posible.
+Selecciono la tecnología adecuada según el proyecto, no al revés.
 </p>
 
 ---
@@ -79,7 +112,7 @@ Lenguajes y herramientas seleccionadas según el tipo de proyecto y la mejor sol
 <h2>📊 GitHub</h2>
 
 <p>
-Este perfil está orientado al desarrollo constante, pruebas, automatización y creación de soluciones reales.
+Este perfil refleja práctica constante, pruebas, desarrollo de ideas y creación de soluciones reales.
 </p>
 
 <p align="center">
@@ -89,5 +122,6 @@ Este perfil está orientado al desarrollo constante, pruebas, automatización y 
 ---
 
 <p align="center">
-<b>Desarrollo software que funciona, no solo que se ve bien.</b>
+<b>Si se puede automatizar, se automatiza.  
+Si se puede optimizar, se optimiza.</b>
 </p>
