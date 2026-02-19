@@ -1,4 +1,4 @@
-<h1 align="center">⚡ zPcho ⚡</h1>
+<h1 align="center"> zPcho </h1>
 
 <h3 align="center">
 Ingeniero de Sistemas · Desarrollador Software · Web · Automatización · Bots
