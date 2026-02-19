@@ -121,7 +121,6 @@ Este perfil refleja práctica constante, pruebas, desarrollo de ideas y creació
 
 ---
 
-<p align="center">
-<b>Si se puede automatizar, se automatiza.  
-Si se puede optimizar, se optimiza.</b>
+<p align="center"> 
+No hay nada imposible para quien lo intenta. </b>
 </p>
