@@ -1,53 +1,85 @@
-<h1 align="center">zPcho</h1>
-<h3 align="center">Ingeniero de Sistemas · Desarrollador de Software & Web</h3>
+<h1 align="center">👨‍💻 zPcho</h1>
+<h3 align="center">
+Ingeniero de Sistemas · Desarrollador de Software · Web · Bots de Discord
+</h3>
 
 <p align="center">
-Desarrollo soluciones digitales profesionales, funcionales y a medida.
+🚀 Desarrollo soluciones digitales modernas, personalizadas y funcionales
+</p>
+
+<p align="center">
+Código limpio · Diseño funcional · Resultados reales
 </p>
 
 ---
 
-<h2>Perfil profesional</h2>
+<h2>🧠 ¿Quién soy?</h2>
 
 <p>
-Soy <b>Ingeniero de Sistemas</b> con enfoque en el desarrollo de software y páginas web profesionales.
-Trabajo creando soluciones eficientes, limpias y adaptadas a las necesidades reales de cada proyecto.
+Soy <b>Ingeniero de Sistemas</b> con enfoque en el desarrollo de software práctico y soluciones a medida.
+Me dedico a crear <b>páginas web profesionales</b>, <b>programas personalizados</b> y <b>bots de Discord</b> adaptados a cada necesidad.
 </p>
 
 <p>
-Desarrollo <b>páginas web modernas y personalizadas</b>, así como <b>programas y aplicaciones</b> orientadas a automatización, control y lógica de negocio.
+Trabajo con una mentalidad clara:  
+<b>menos humo, más funcionalidad</b>.
 </p>
 
 <p>
-Mi prioridad es entregar software estable, optimizado y bien estructurado.
+Cada proyecto está pensado para ser estable, escalable y fácil de mantener.
 </p>
 
 ---
 
-<h2>Servicios</h2>
+<h2>🛠️ ¿Qué hago?</h2>
 
 <ul>
-  <li>Desarrollo de páginas web profesionales (a medida)</li>
-  <li>Desarrollo de programas y aplicaciones</li>
-  <li>Automatización de procesos</li>
-  <li>Sistemas backend</li>
-  <li>Mantenimiento y optimización de software</li>
+  <li>🌐 <b>Páginas web profesionales</b> (diseño moderno y a gusto del cliente)</li>
+  <li>🖥️ <b>Programas y aplicaciones</b> personalizadas</li>
+  <li>🤖 <b>Bots de Discord</b> (moderación, sistemas, automatización)</li>
+  <li>⚙️ Automatización de procesos</li>
+  <li>🧩 Backend y lógica de negocio</li>
+  <li>🔧 Optimización y mantenimiento de software</li>
 </ul>
 
 ---
 
-<h2>Tecnologías</h2>
+<h2>🤖 Bots de Discord</h2>
+
+<p>
+Desarrollo bots de Discord completamente personalizados, enfocados en:
+</p>
+
+<ul>
+  <li>Moderación automática</li>
+  <li>Sistemas de roles y permisos</li>
+  <li>Comandos personalizados</li>
+  <li>Economías, niveles y estadísticas</li>
+  <li>Integración con sistemas externos</li>
+</ul>
+
+<p>
+Bots estables, seguros y adaptados a cada servidor.
+</p>
+
+---
+
+<h2>⚙️ Tecnologías y herramientas</h2>
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,java,php,html,css,js,mysql,linux,git,github,vscode&perline=6" />
 </p>
 
+<p>
+Lenguajes y herramientas seleccionadas según el tipo de proyecto y la mejor solución posible.
+</p>
+
 ---
 
-<h2>GitHub</h2>
+<h2>📊 GitHub</h2>
 
 <p>
-Este perfil está enfocado en proyectos reales, prácticas de desarrollo, automatización y mejora continua.
+Este perfil está orientado al desarrollo constante, pruebas, automatización y creación de soluciones reales.
 </p>
 
 <p align="center">
@@ -57,5 +89,5 @@ Este perfil está enfocado en proyectos reales, prácticas de desarrollo, automa
 ---
 
 <p align="center">
-<b>Software profesional, claro y funcional.</b>
+<b>Desarrollo software que funciona, no solo que se ve bien.</b>
 </p>
