@@ -109,18 +109,6 @@ Selecciono la tecnología adecuada según el proyecto, no al revés.
 
 ---
 
-<h2>📊 GitHub</h2>
-
-<p>
-Este perfil refleja práctica constante, pruebas, desarrollo de ideas y creación de soluciones reales.
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zpcho&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
 <p align="center"> 
 No hay nada imposible para quien lo intenta. </b>
 </p>
